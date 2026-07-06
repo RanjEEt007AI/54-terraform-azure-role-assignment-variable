@@ -48,7 +48,6 @@ terraform-azure-role-assignment/
 ├── main.tf
 ├── variables.tf
 ├── terraform.tfvars
-├── outputs.tf
 └── .gitignore
 ```
 
